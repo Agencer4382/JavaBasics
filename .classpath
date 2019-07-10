@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="asim/src"/>
+	<classpathentry kind="src" path="kevin/src"/>
+	<classpathentry kind="src" path="testbyself/src"/>
+	<classpathentry kind="output" path="asim/bin"/>
+</classpath>

@@ -17,7 +17,7 @@ public class CollectionRecap {
 		set.add("is");
 		set.add("fun");
 		set.add("logic");
-		
+		System.out.println(set);
 		
 		Set<String>set1=new LinkedHashSet<>();
 		set1.add("Jva");
@@ -25,7 +25,7 @@ public class CollectionRecap {
 		set1.add("fun");
 		set1.add("logic");
 		set1.add("and cool");
-		
+		System.out.println(set1);
 		
 		Set<String>set2=new TreeSet<>();
 		set2.add("Jva");
@@ -34,6 +34,7 @@ public class CollectionRecap {
 		set2.add("logic");
 		set2.add("and cool");
 		set2.add("also magic");
+		System.out.println(set2);
 		
 		
 		Map<Integer,String>map=new HashMap<>();
